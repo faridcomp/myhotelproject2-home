@@ -3,14 +3,14 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2022-04-19T18:54:28.199Z",
+        "start_timestamp": "2022-06-02T15:25:09.862Z",
         "before": [
           {
             "output": [
               "Login to HotelStarted"
             ],
             "result": {
-              "duration": 34248497300,
+              "duration": 17778210000,
               "status": "passed"
             },
             "match": {
@@ -28,7 +28,7 @@
               "Login to Hotel PASSED"
             ],
             "result": {
-              "duration": 534308400,
+              "duration": 612645400,
               "status": "passed"
             },
             "match": {
@@ -41,7 +41,7 @@
         "steps": [
           {
             "result": {
-              "duration": 97978600,
+              "duration": 68949600,
               "status": "passed"
             },
             "line": 6,
@@ -53,7 +53,7 @@
           },
           {
             "result": {
-              "duration": 1470950800,
+              "duration": 1150056600,
               "status": "passed"
             },
             "line": 7,
@@ -65,7 +65,7 @@
           },
           {
             "result": {
-              "duration": 154909500,
+              "duration": 234858700,
               "status": "passed"
             },
             "line": 8,
